@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{9c256d1d-29d3-439f-819d-2c8f8e0c8749}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../UnityProjects/Flesh-Invader/Flesh-Invader/FMODBanks</value>
+		</property>
+		<property name="builtBanksEncryptionKey" />
+		<relationship name="masterEventFolder">
+			<destination>{96eabff7-cc28-41da-8b65-0ab518c6c1c7}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{9128365d-26b8-46d4-b157-bfc3ac779cb1}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{45084045-9b30-4c88-8b71-ecad039b8975}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{aa1f6957-d7f5-4142-8493-4779687ec88a}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{4a197e95-4658-4095-a1ad-298b22c66e1e}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{84bec1ab-f557-420d-8c63-1b382d270930}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{1707ef9a-63e7-4a5e-ad1f-7525b967411c}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{19d231f5-a9e2-48cd-b6d7-4e226db90955}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{716d721f-ae4b-44d2-bc76-55b6e34bf5c3}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{cc8aa7fe-4fed-4115-93c8-8889a5b99820}</destination>
+		</relationship>
+	</object>
+</objects>

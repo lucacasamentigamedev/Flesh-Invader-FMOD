@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d248a6d0-65b9-4849-9513-cb6b2481d001}">
+		<property name="assetPath">
+			<value>stabbed3.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.79200000000000004</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1707ef9a-63e7-4a5e-ad1f-7525b967411c}</destination>
+		</relationship>
+	</object>
+</objects>
